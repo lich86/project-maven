@@ -74,6 +74,7 @@
                     <outputDirectory>
                         ${project.build.directory}/dependencies
                     </outputDirectory>
+                    <excludeScope>compile</excludeScope>
                 </configuration>
                 <executions>
                     <execution>
